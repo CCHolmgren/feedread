@@ -1,0 +1,30 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+img {
+	max-width: 100%;
+}
+
+.inline-block {
+	display: inline-block;
+}
+
+.inline-block-important {
+	display: inline-block !important;
+}
+
+.feed-item .feedflare {
+	display: none;
+}
+
+.feed-item__headline {
+	margin-top: 0.5rem;
+	margin-bottom: 2rem;
+}

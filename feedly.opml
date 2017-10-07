@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Christoffer subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Webseries" title="Webseries">
+            <outline type="rss" text="CommitStrip" title="CommitStrip" xmlUrl="http://www.commitstrip.com/en/feed/" htmlUrl="http://www.commitstrip.com"/>
+            <outline type="rss" text="False Knees" title="False Knees" xmlUrl="http://falseknees.com/rss.xml" htmlUrl="http://falseknees.com/"/>
+            <outline type="rss" text="Saturday Morning Breakfast Cereal" title="Saturday Morning Breakfast Cereal" xmlUrl="http://www.smbc-comics.com/rss.php" htmlUrl="http://www.smbc-comics.com/"/>
+            <outline type="rss" text="Extra Fabulous Comics" title="Extra Fabulous Comics" xmlUrl="http://www.extrafabulouscomics.com/1/feed" htmlUrl="http://extrafabulouscomics.com"/>
+            <outline type="rss" text="PostSecret" title="PostSecret" xmlUrl="http://postsecret.blogspot.com/feeds/posts/default" htmlUrl="http://postsecret.blogspot.com/"/>
+            <outline type="rss" text="ZEN PENCILS" title="ZEN PENCILS" xmlUrl="http://feeds.feedburner.com/zenpencils" htmlUrl="https://zenpencils.com"/>
+            <outline type="rss" text="xkcd.com" title="xkcd.com" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"/>
+            <outline type="rss" text="Explosm.net" title="Explosm.net" xmlUrl="http://feeds.feedburner.com/Explosm" htmlUrl="http://explosm.net"/>
+            <outline type="rss" text="Bigfoot Justice Comics" title="Bigfoot Justice Comics" xmlUrl="http://bigfootjustice.com/feed/" htmlUrl="http://bigfootjustice.com"/>
+            <outline type="rss" text="Poorly Drawn Lines" title="Poorly Drawn Lines" xmlUrl="http://feeds.feedburner.com/PoorlyDrawnLines" htmlUrl="http://www.poorlydrawnlines.com"/>
+            <outline type="rss" text="What If?" title="What If?" xmlUrl="http://what-if.xkcd.com/feed.atom"/>
+            <outline type="rss" text="Oglaf! -- Comics. Often dirty." title="Oglaf! -- Comics. Often dirty." xmlUrl="http://oglaf.com/feeds/rss/" htmlUrl="http://oglaf.com/latest/"/>
+            <outline type="rss" text="The Oatmeal" title="The Oatmeal" xmlUrl="http://theoatmeal.com/feed/rss" htmlUrl="http://theoatmeal.com/"/>
+        </outline>
+        <outline text="Design" title="Design">
+            <outline type="rss" text="Everyday Carry" title="Everyday Carry" xmlUrl="http://everyday-carry.com/rss" htmlUrl="http://everydaycarry.com/"/>
+            <outline type="rss" text="Cool Hunting" title="Cool Hunting" xmlUrl="http://www.coolhunting.com/atom.xml" htmlUrl="http://www.coolhunting.com"/>
+            <outline type="rss" text="Yanko Design" title="Yanko Design" xmlUrl="http://www.yankodesign.com/feed/" htmlUrl="http://www.yankodesign.com"/>
+            <outline type="rss" text="Dezeen" title="Dezeen" xmlUrl="http://feeds.feedburner.com/dezeen" htmlUrl="https://www.dezeen.com"/>
+            <outline type="rss" text="Design Milk" title="Design Milk" xmlUrl="http://feeds.feedburner.com/design-milk" htmlUrl="http://design-milk.com"/>
+        </outline>
+        <outline text="Other stuff" title="Other stuff">
+            <outline type="rss" text="The Points Guy" title="The Points Guy" xmlUrl="http://feeds.feedburner.com/thepointsguy" htmlUrl="https://thepointsguy.com"/>
+        </outline>
+        <outline text="Technology" title="Technology">
+            <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="https://arstechnica.com"/>
+        </outline>
+        <outline text="Home design" title="Home design">
+            <outline type="rss" text="Folk Fibers - Folk Fibers Blog" title="Folk Fibers - Folk Fibers Blog" xmlUrl="http://www.folkfibers.com/blogs/news.atom" htmlUrl="https://www.folkfibers.com/blogs/news"/>
+            <outline type="rss" text="KATIE ARMOUR" title="KATIE ARMOUR" xmlUrl="http://theneotraditionalist.com/feed/" htmlUrl="http://theneotrad.com"/>
+            <outline type="rss" text="Remodelista" title="Remodelista" xmlUrl="http://www.remodelista.com/feed/" htmlUrl="https://www.remodelista.com"/>
+            <outline type="rss" text="Design*Sponge" title="Design*Sponge" xmlUrl="http://www.designspongeonline.com/feed" htmlUrl="http://www.designsponge.com"/>
+            <outline type="rss" text="Little Green Notebook" title="Little Green Notebook" xmlUrl="http://www.littlegreennotebook.blogspot.com/feeds/posts/default" htmlUrl="http://littlegreennotebook.com"/>
+            <outline type="rss" text="Savvy Home" title="Savvy Home" xmlUrl="http://www.savvyhomeblog.com/feeds/posts/default" htmlUrl="http://savvyhomeblog.com"/>
+            <outline type="rss" text="style court" title="style court" xmlUrl="http://stylecourt.blogspot.com/feeds/posts/default" htmlUrl="http://stylecourt.blogspot.com/"/>
+            <outline type="rss" text="Emily Henderson" title="Emily Henderson" xmlUrl="http://stylebyemilyhenderson.com/feed/" htmlUrl="https://stylebyemilyhenderson.com"/>
+            <outline type="rss" text="Good Bones Great Pieces" title="Good Bones Great Pieces" xmlUrl="http://goodbonesgreatpieces.com/feed/" htmlUrl="http://blog.mcgrath2.com"/>
+        </outline>
+        <outline text="tech" title="tech">
+            <outline type="rss" text="The Official Google Blog" title="The Official Google Blog" xmlUrl="http://googleblog.blogspot.com/atom.xml" htmlUrl="https://www.blog.google/"/>
+        </outline>
+        <outline text="Cosmos" title="Cosmos">
+            <outline type="rss" text="Just pix Cosmos &amp; ​Just pix froste - Blogg" title="Just pix Cosmos &amp; ​Just pix froste - Blogg" xmlUrl="http://justpixcosmos.weebly.com/1/feed" htmlUrl="http://justpixcosmos.weebly.com/blogg"/>
+        </outline>
+        <outline text="Must Read" title="Must Read">
+            <outline type="rss" text="xkcd.com" title="xkcd.com" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"/>
+            <outline type="rss" text="Saturday Morning Breakfast Cereal" title="Saturday Morning Breakfast Cereal" xmlUrl="http://www.smbc-comics.com/rss.php" htmlUrl="http://www.smbc-comics.com/"/>
+        </outline>
+    </body>
+</opml>
