@@ -34,7 +34,7 @@
 
 			<p>{{ $item->pub_date }} {{ $item->category }}</p>
 			
-			{!! $item->description !!}
+			{!! $item->content !!}
 		</div>
 	</div>
 </div>
